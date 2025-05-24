@@ -8,7 +8,8 @@
 #
 # DESCRIPTION
 #
-#   Exercises
+#   Exercise(s)
+#
 #   1 - Write a program that gets 2 string variables
 #   and 2 number variables from the user.
 #   concatenates (joins them together with no spaces)
@@ -24,6 +25,11 @@ string1 = str(input('First word: '))
 string2 = str(input('Second word: '))
 number1 = int(input('First number: '))
 number2 = int(input('Second number: '))
+
 print()
 print(string1 + string2)
 print(number1,'x',number2,'=',(number1 * number2))
+
+
+print()
+print('✔ Program successful.')
