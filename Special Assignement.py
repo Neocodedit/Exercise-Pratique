@@ -2,7 +2,7 @@
 #   Special Assignement
 #   Version: 1.1.0
 #   Auteur: neocodedit
-#   Created: 2025-05-20
+#   Date de Creation: 2025-05-20
 # 
 # INDEX DE UPDATES
 #   1.0.0 Creation
