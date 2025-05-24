@@ -1,7 +1,7 @@
 # INFORMATION
 #
 #   Title: Practice Exercise #3 - 'Count to 10'
-#   Version: 1.01
+#   Version: 1.02
 #   Author: neocodedit
 #   Created: 2025-05-24
 #
@@ -31,10 +31,7 @@ while input() != 'lock':
 
 print('✔ Program locked.')
 
-while input('Confirm your username: ') != username:
-    print('✘')
-
-while input('Confirm your password: ') != password:
+while input('Confirm your username: ') != username or input('Confirm your password: ') != password:
     print('✘')
 
 print('✔ Program unlocked.')
