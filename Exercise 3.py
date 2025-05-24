@@ -1,7 +1,7 @@
 # INFORMATION
 #
 #   Title: Practice Exercise #3 - 'Count to 10'
-#   Version: 1.02
+#   Version: 1.01
 #   Author: neocodedit
 #   Created: 2025-05-24
 #
