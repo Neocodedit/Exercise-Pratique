@@ -81,3 +81,7 @@ if number1 + number2 >= 100:
     print('That is a big number.')
 else:
     print(number1, '+', number2, '=', (number1 + number2))
+
+
+print()
+print('✔ Program successful.')
