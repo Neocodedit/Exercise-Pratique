@@ -8,9 +8,11 @@
 #
 # DESCRIPTION
 #
-#   Exercises
+#   Exercise(s)
+#
 #   1 - Write a program that prints your full name and your birthday
 #   as separate strings.
+#
 #   2 - Write a program that shows the use of all 7 arithmetic operations.
 #
 #
@@ -32,3 +34,5 @@ print('Exponentials: 5² =',(5**2))
 print('Remainders (Modulo): Remainder of 14 % 3 =',(14%3))
 
 
+print()
+print('✔ Program successful.')
